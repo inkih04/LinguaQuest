@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>./lOGO.png</file>
+    </qresource>
+</RCC>
+

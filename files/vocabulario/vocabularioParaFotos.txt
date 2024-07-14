@@ -1,0 +1,18 @@
+boat-barco;
+bus-autobús;
+bus stop-parada de autobús;
+cab-taxi;
+cabin-cabina;
+architect-arquitecto;
+chef-chef;
+pilot-piloto;
+artist-artista;
+plum-ciruela;
+cherry-cereza;
+strawberry-fresa;
+blueberry-arándano;
+raspberry-frambuesa;
+watermelon-sandía;
+melon-melón;
+pineapple-piña;
+kiwi-kiwi;
