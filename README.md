@@ -12,3 +12,7 @@ It allows the user to have five files with english and spanish words that follow
 You just have to remove one of the former files and add one of your own into the vocabulario folder.
 the words in these files must follow the correct structure for the words **car-coche;...**
 ![](https://github.com/inkih04/LinguaQuest/blob/main/imagesREADME/cambiarVocabulario.png)
+# Adding more pictures
+At the moment only the file "vocabulario Para Fotos" has all the picture to be able to play "Interpretación imagenes", but you can add more pictures 
+by adding the picture to the folder imagenessVocabulario with the name of the word in english
+![](https://github.com/inkih04/LinguaQuest/blob/main/imagesREADME/cambiarFoto.png)
