@@ -7,6 +7,7 @@ It allows the user to have five files with english and spanish words that follow
 ![](https://github.com/inkih04/LinguaQuest/blob/main/imagesREADME/menuOpciones.png)
 # GamePlay
 ![](https://github.com/inkih04/LinguaQuest/blob/main/imagesREADME/LinguaQuest_partida.png)
+![](https://github.com/inkih04/LinguaQuest/blob/main/imagesREADME/LinguaQuest_fotos.png)
 # Changing the vocabulary files
 You just have to remove one of the former files and add one of your own into the vocabulario folder.
 the words in these files must follow the correct structure for the words **car-coche;...**
