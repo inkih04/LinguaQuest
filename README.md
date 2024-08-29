@@ -1,4 +1,4 @@
-# LinguaQuest <img src="https://github.com/inkih04/LinguaQuest/blob/main/files/imagenes/lOGO.png" alt="logo2" width="60" height="60">
+# LinguaQuest <img src="https://github.com/inkih04/LinguaQuest/blob/main/files/imagenes/lOGO.png" alt="logo2" width="60" height="50">
 
 LinguaQuest is a small yet powerful application developed with Qt5 and C++ that helps users practice and improve their English vocabulary.
 It allows the user to have five files with English and Spanish words that follow the next structure `car-coche;...`
